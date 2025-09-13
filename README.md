@@ -67,19 +67,19 @@ Enter Your Choice: 3
 InvoiceId: 1 | Customer: John | Vehicle: Honda City | Services: [101, 102] | Total: $500
 ```
 
-##🚀 Future Improvements
+🚀 Future Improvements
 
--Add database persistence (MySQL/PostgreSQL) for storing customers, vehicles, and invoices
+- Add database persistence (MySQL/PostgreSQL) for storing customers, vehicles, and invoices
 
--Implement a GUI using JavaFX or Swing
+- Implement a GUI using JavaFX or Swing
 
--Add detailed service catalog with pricing and service descriptions
+- Add detailed service catalog with pricing and service descriptions
 
 ---
 
--👨‍💻 Developed by Yash Shelar
+- 👨‍💻 Developed by Yash Shelar
 
--📧 Email: yashshelar006@gmail.com
+- 📧 Email: yashshelar006@gmail.com
 
--🔗 GitHub: theyashshelar
+- 🔗 GitHub: theyashshelar
 
