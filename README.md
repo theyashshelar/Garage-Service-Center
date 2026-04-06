@@ -38,34 +38,9 @@ git clone https://github.com/theyashshelar/Garage-Service-Billing-System.git
 
 4. Run App.java from the src folder.
 
-## 📸 Sample Console Output
+## 📸 Application Preview
 
-```console
-1. Add Customer with Vehicle
-2. Generate Invoice 
-3. Show Invoice
-4. Show Invoices by Customer
-5. Show All Customers
-6. Show All Vehicles
-7. Exit
-Enter Your Choice: 1
-Customer name: John
-Customer Phone no: 1234567890
-Enter Vehicle number: MH12AB1234
-Enter Vehicle model: Honda City
-Customer and Vehicle added successfully.
-
-Enter Your Choice: 2
-Enter Customer Id: 1
-Enter Vehicle Id: 1
-Enter Number of Services: 2
-Enter the Service id: 101
-Enter the Service id: 102
-Invoice generated successfully.
-
-Enter Your Choice: 3
-InvoiceId: 1 | Customer: John | Vehicle: Honda City | Services: [101, 102] | Total: $500
-```
+![Console Output](assets/console.png)
 
 🚀 Future Improvements
 
